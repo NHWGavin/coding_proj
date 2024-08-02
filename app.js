@@ -13,7 +13,7 @@ const connection = mysql.createConnection({
     host: 'db4free.net',
     user: 'codingprojects',
     password: 'gavinminiproject',
-    database: 'nhwgavin'
+    database: 'freedb_nhwgavin'
 });
 connection.connect((err) => {
     if (err) {
