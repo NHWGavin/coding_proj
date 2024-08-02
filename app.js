@@ -10,9 +10,9 @@ const connection = mysql.createConnection({
     //user: 'root',
     //password: '',
     //database: 'coding_proj'
-    host: 'db4free.net',
-    user: 'codingprojects',
-    password: 'gavinminiproject',
+    host: 'freedb.tech',
+    user: 'freedb_codingproject',
+    password: 'dRm*$RMgCt3GPv7',
     database: 'freedb_nhwgavin'
 });
 connection.connect((err) => {
