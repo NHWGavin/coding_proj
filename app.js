@@ -14,7 +14,6 @@ const connection = mysql.createConnection({
     user: 'freedb_codingproject',
     password: 'dRm*$RMgCt3GPv7',
     database: 'freedb_nhwgavin',
-    port: '3308'
 });
 connection.connect((err) => {
     if (err) {
